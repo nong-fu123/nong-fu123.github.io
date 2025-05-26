@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>微信lsposed模块</title>
+      <link href="/2025/05/26/%E5%BE%AE%E4%BF%A1lsposed%E6%A8%A1%E5%9D%97/"/>
+      <url>/2025/05/26/%E5%BE%AE%E4%BF%A1lsposed%E6%A8%A1%E5%9D%97/</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>距离我创建此博客已经过去了60天啦，哈哈长期搁置自己竟然都忘记有这个博客了，闲来无事更新一下咯，这次主题是对微信lsposed模块的汇总（截止到2025年5月26日）</p><h2 id="WAuxiliary微信辅助功能增强"><a href="#WAuxiliary微信辅助功能增强" class="headerlink" title="WAuxiliary微信辅助功能增强"></a>WAuxiliary微信辅助功能增强</h2><p>• 功能：新增 语音保存 （需自行解密文件）</p><p>• 新增 文本转圈 （转到朋友圈编辑）</p><p>• 新增 友圈原图 （朋友圈上传原图）</p><p>• 新增 友圈转发 （朋友圈转发文本）</p><p>• 新增 强制分享 （小程序强制分享）</p><p>• 新增 微信步数 （此功能存在风险）</p><p>• 优化 消息复读 （移除视图的复读）</p><p>• 优化 消息复读 （可复读引用消息）</p><p>• 优化 消息复读 （可复读表情消息）</p><p>• 优化 保存弹窗 （默认路径和输入）</p><p>• 优化 友圈尾巴 （增加部分预设值）</p><p>• 优化 友圈转发 （支持图文及视频）</p><p>• 修复 篡改余额 （加减的算法错乱）</p><p>• 修复 表情游戏 （8.0.42 Play异常）</p><p>• 修复 透明头像 （8.0.44 之前异常）</p><p>• 修复 监听成员 （提示的点击冲突）</p><p>• 修复 图片菜单 （8.0.58 查找异常）</p><p>• 修复表情保存 （保存的方法异常）</p><p>• 修复 时间位置 （8.0.58 视图问题）</p><p>• 修复 消息列表 （8.0.42 Play异常）</p><p>• 修复 发送格式 （8.0.31 查找异常）</p><p>• 修复隐藏顶栏 （8.0.31 查找异常）</p><p>地址：<a href="https://lsposed.cn/996#posts-pay">https://lsposed.cn/996#posts-pay</a></p><h2 id="Xchat"><a href="#Xchat" class="headerlink" title="Xchat"></a>Xchat</h2><p>功能：个人认为这个功能基本和wauxiliary模块重合，突出功能不明显<br>地址：<a href="https://lsposed.cn/851">https://lsposed.cn/851</a></p><h2 id="nb模块"><a href="#nb模块" class="headerlink" title="nb模块"></a>nb模块</h2><p>功能：主要增加了修改聊天记录和转账记录的功能（我就说了聊天记录不能信  &#x2F;吃瓜.png）<br>地址：<a href="https://modules.lsposed.org/module/com.padi.hook.hookqq/">https://modules.lsposed.org/module/com.padi.hook.hookqq/</a></p><h2 id="FunBox"><a href="#FunBox" class="headerlink" title="FunBox"></a>FunBox</h2><p>功能：可以在微信或者QQ发送语音包，累死古老的千变语言<br>地址：<a href="https://modules.lsposed.org/module/have.fun/">https://modules.lsposed.org/module/have.fun/</a></p><h2 id="miko"><a href="#miko" class="headerlink" title="miko"></a>miko</h2><p>功能：基本和xchat，WAuxiliary微信辅助功能增强 ，类似<br>地址：<a href="https://modules.lsposed.org/module/miko.client">https://modules.lsposed.org/module/miko.client</a></p><h2 id="anytxt"><a href="#anytxt" class="headerlink" title="anytxt"></a>anytxt</h2><p>功能：一个古老的模块，并不是专门为微信开发的，适用于所有安卓手机，功能就类似于“上帝模式”可以修改手机界面的文本信息，比如微信聊天界面的系统时间，钱包余额，等等<br>地址：<a href="https://modules.lsposed.org/module/com.hhvvg.anytext/">https://modules.lsposed.org/module/com.hhvvg.anytext/</a></p><h2 id="FOX"><a href="#FOX" class="headerlink" title="FOX"></a>FOX</h2><p>功能：基本和xchat，WAuxiliary微信辅助功能增强 ，类似。不过多赘述<br>地址：<a href="https://wwrv.lanzouy.com/i30Pl2x92ced">https://wwrv.lanzouy.com/i30Pl2x92ced</a><br>密码:cxfc</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>感谢开源社区（如ItChat、Jekyll）提供的技术基石。<strong>最后提醒</strong>：微信模块功能需严格遵循《微信开放平台规范》，避免滥用导致账号风险，并且禁止在国内传播。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 业余无线电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>无线电执照</title>
       <link href="/2025/04/05/%E4%BF%9D%E5%AE%9A%E5%BF%AB%E9%80%9F%E8%8E%B7%E5%8F%96%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8F%B0%E6%89%A7%E7%85%A7/"/>
       <url>/2025/04/05/%E4%BF%9D%E5%AE%9A%E5%BF%AB%E9%80%9F%E8%8E%B7%E5%8F%96%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8F%B0%E6%89%A7%E7%85%A7/</url>
