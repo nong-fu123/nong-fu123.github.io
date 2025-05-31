@@ -64,33 +64,33 @@
     
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="🚀-我是谁？"><a href="#🚀-我是谁？" class="headerlink" title="🚀 我是谁？"></a>🚀 我是谁？</h2><p>一名开发者，热爱技术分享…</p><h2 id="🌟-技能树"><a href="#🌟-技能树" class="headerlink" title="🌟 技能树"></a>🌟 技能树</h2><ul><li><strong>编程语言</strong>: Python, JavaScript</li><li><strong>工具框架</strong>: Hexo, Vue</li></ul><h2 id="📮-快速联系"><a href="#📮-快速联系" class="headerlink" title="📮 快速联系"></a>📮 快速联系</h2><ul><li><strong>邮箱</strong>: <a href="mailto:&#x7a;&#104;&#x61;&#110;&#103;&#49;&#x39;&#57;&#x30;&#56;&#x33;&#x40;&#103;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">zhang199083@gmail.com</a>   </li><li><strong>QQ</strong>: <a href="http://wpa.qq.com/msgrd?v=3&uin=40561023&site=qq&menu=yes">40561023</a>  </li><li><strong>Telegram</strong>: <a href="https://t.me/y22222222">@t.me&#x2F;y22222222</a></li></ul>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index-1.html"/>
+      <url>/tags/index-1.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/tags/index-2.html"/>
       <url>/tags/index-2.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>软考</title>
-      <link href="/tags/index-3.html"/>
-      <url>/tags/index-3.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="🚀-我是谁？"><a href="#🚀-我是谁？" class="headerlink" title="🚀 我是谁？"></a>🚀 我是谁？</h2><p>一名开发者，热爱技术分享…</p><h2 id="🌟-技能树"><a href="#🌟-技能树" class="headerlink" title="🌟 技能树"></a>🌟 技能树</h2><ul><li><strong>编程语言</strong>: Python, JavaScript</li><li><strong>工具框架</strong>: Hexo, Vue</li></ul><h2 id="📮-快速联系"><a href="#📮-快速联系" class="headerlink" title="📮 快速联系"></a>📮 快速联系</h2><ul><li><strong>邮箱</strong>: <a href="mailto:&#122;&#104;&#x61;&#x6e;&#x67;&#x31;&#x39;&#x39;&#48;&#56;&#x33;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#109;">zhang199083@gmail.com</a>   </li><li><strong>QQ</strong>: <a href="http://wpa.qq.com/msgrd?v=3&uin=40561023&site=qq&menu=yes">40561023</a>  </li><li><strong>Telegram</strong>: <a href="https://t.me/y22222222">@t.me&#x2F;y22222222</a></li></ul>]]></content>
       
     </entry>
     
@@ -108,9 +108,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index-1.html"/>
-      <url>/tags/index-1.html</url>
+      <title>软考</title>
+      <link href="/tags/index-3.html"/>
+      <url>/tags/index-3.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
